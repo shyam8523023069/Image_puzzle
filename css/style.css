@@ -1,0 +1,31 @@
+﻿body {
+    
+    font-family: 'Segoe UI', Calibri, Arial;
+    margin:0;
+    color: rgb(244, 244, 245) ;
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: 1700px 700px;
+    font-weight:bold;
+    
+    
+}
+h2{
+    color: rgb(255, 255, 255) ;
+    text-align:center;
+    font-family: 'Chiller';
+    color:  rgb(24, 143, 30);  
+    padding: 5px;
+    font-size: 50px;
+    
+    margin: auto;
+    
+    
+}
+h3{ 
+    font-family: 'Kristen ITC';
+    color:  rgb(250, 253, 250);
+    margin:3px 0px;
+    text-align:center;
+    font-size: 20px;
+}
